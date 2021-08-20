@@ -7,8 +7,9 @@ This demo site demonstrates the following:
 1. how to integrate Disqus to an HTML page;
 2. how to deploy static assets with GitHub pages.
 
+![site preview](https://github.com/StephenRoille/project-29b81af403-part-1/blob/master/screenshot.png)
 
 ## Reference
 
-Base on [JAMStack: The Complete Guide](https://www.udemy.com/course/jamstack/) course by
+Based on [JAMStack: The Complete Guide](https://www.udemy.com/course/jamstack/) course by
 Ray Viljoen.
